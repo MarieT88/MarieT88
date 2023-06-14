@@ -1,4 +1,3 @@
-[![MasterHead](https://tse4.mm.bing.net/th?id=OIP.7IG0pQtxLjNB0WDahIdC9gHaDN&pid=Api&P=0&h=180)
 
 <h1 align="center">Hi, I'm Marie</h1>
 <h3 align="center">A fullstack developer from New York 🍎</h3>
@@ -14,6 +13,8 @@
 
 
 <!--
+banner
+[![MasterHead](https://tse4.mm.bing.net/th?id=OIP.7IG0pQtxLjNB0WDahIdC9gHaDN&pid=Api&P=0&h=180)
 
 image on right
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.7IG0pQtxLjNB0WDahIdC9gHaDN&pid=Api&P=0&h=180">
