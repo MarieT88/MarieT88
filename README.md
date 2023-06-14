@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mariet88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mariet88" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marie-tornetto-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marie-tornetto-software-engineer/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marie-tornetto-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/marie-tornetto-software-engineer/" height="30" width="40" /></a>
 <a href="https://instagram.com/spaceybassbabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spaceybassbabe" height="30" width="40" /></a>
 </p>
 
