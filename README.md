@@ -1,5 +1,9 @@
+[![MasterHead](https://tse1.mm.bing.net/th?id=OIP.JN095Iw834uiwncz4MmhEQHaCA&pid=Api&P=0&h=180)
+
 <h1 align="center">Hi, I'm Marie</h1>
 <h3 align="center">A fullstack developer from New York</h3>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
